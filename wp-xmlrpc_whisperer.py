@@ -368,7 +368,6 @@ def main():
         print("[0] Exit")
 
 
-#    print("Enter the targets URL:")
         option_picked = input("\nChoose:")    
 
 
