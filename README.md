@@ -3,7 +3,7 @@
 A Python tool to probe and interact with WordPress’s XML-RPC endpoint (xmlrpc.php) for security research and testing purposes. Some security teams and pentesters dismiss XML-RPC as “legacy,” but vulnerabilities in this interface — especially related to remote calls and authentication amplification — remain relevant for effective assessments. 
 
 
-
+ 
 🧠 What Is This For?
 
 WordPress includes an XML-RPC interface (xmlrpc.php) that allows remote procedure calls. While originally designed for mobile publishing and legacy services, it has been repeatedly abused by attackers for:
